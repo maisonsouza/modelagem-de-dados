@@ -109,24 +109,3 @@ Usuários, Aplicativos de acesso, SGBD, Banco de dados.
   
   * Não Relacional.
   
-
-
-
-
-
-CONTEÚDO DA AULA 06...
-
-01) Introdução (0:00)
-
-02) Atributos(0:08)
-CONTEÚDO DA AULA 06...
-01) Introdução (0:00)
-02) Atributos(0:08)
-     a) Representando Atributos (1:12)
-     b) Tipos de Atributos (2:35)
-         - Atributo Simples/Atômico (3:18)
-         - Atributo Composto (4:20)
-         - Atributo Multivalorado (5:53)
-         - Atributo Determinante (7:04)
-         - Atributos Identificadores ("Chaves") (9:05)
-    c) Exemplos de Representação de Entidades e Atributos (11:05)
