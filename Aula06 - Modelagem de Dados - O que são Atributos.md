@@ -3,7 +3,7 @@ CONTEÚDO DA AULA 06...
 02) Atributos [0:08](https://www.youtube.com/watch?v=59TZc_vRpcQ&t=8s)
 
      a) Representando Atributos [1:12](https://www.youtube.com/watch?v=59TZc_vRpcQ&t=72s)
-     b) Tipos de Atributos (https://www.youtube.com/watch?v=59TZc_vRpcQ&t=155s)
+     b) Tipos de Atributos [2:35](https://www.youtube.com/watch?v=59TZc_vRpcQ&t=155s)
 
 - Atributo Simples/Atômico [3:18](https://www.youtube.com/watch?v=59TZc_vRpcQ&t=198s)
   ibuto Composto (4:20)
