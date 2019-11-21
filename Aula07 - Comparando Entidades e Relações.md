@@ -1,6 +1,6 @@
 CONTEÚDO DA AULA 07...
-- Introdução [0:00]((https://www.youtube.com/watch?v=CdbYZGEClLg&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&t=0s)
-- Relações [0:08]((https://www.youtube.com/watch?v=CdbYZGEClLg&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&t=8s)
+- Introdução [0:00]((https://www.youtube.com/watch?v=CdbYZGEClLg&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&t=0s))
+- Relações [0:08]((https://www.youtube.com/watch?v=CdbYZGEClLg&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&t=8s))
     - Entidade x Relação [0:11]((https://www.youtube.com/watch?v=CdbYZGEClLg&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&t=11s))
      - Entidade [0:43]((https://www.youtube.com/watch?v=CdbYZGEClLg&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&t=43s))
      - Relação [0:57]((https://www.youtube.com/watch?v=CdbYZGEClLg&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&t=57s))
